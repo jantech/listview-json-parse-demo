@@ -4,4 +4,4 @@
   
 ## Youtube Video Tutorial
 
-[Features Demo Video](https://youtu.be/Vll8ARb05qY)
+[Step by Step Tutorial Video of this repository](https://youtu.be/Vll8ARb05qY)
