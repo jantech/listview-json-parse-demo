@@ -1,6 +1,5 @@
 
 import 'dart:convert';
-import 'dart:ffi';
 
 import 'package:flutter/material.dart';
 import 'package:listview_json_parse_demo/models/product.dart';
