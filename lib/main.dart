@@ -10,15 +10,15 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
-      home: ProductListScreen(),
-      routes: {
-        ProductListScreen.routeName: (context) => ProductListScreen(),
-        ProductDetailScreen.routeName: (context) => ProductDetailScreen()
-      },
+        title: 'Flutter Demo',
+        theme: ThemeData(
+          primarySwatch: Colors.blue,
+        ),
+        home: ProductListScreen(),
+        routes: {
+          ProductListScreen.routeName: (context) => ProductListScreen(),
+          ProductDetailScreen.routeName: (context) => ProductDetailScreen()
+        },      
     );
   }
 }
